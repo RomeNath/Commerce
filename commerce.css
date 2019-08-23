@@ -1,0 +1,198 @@
+.top {
+    background: url(img/bg-top.png);
+    background-size: cover;
+}
+.header {
+    background: url(img/bg-header.png);
+    background-size: cover;
+}
+
+.head h1 {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 85px;
+    color: white;
+    padding-top: 25px;
+}
+.head p {
+    color: white;
+    padding-top: 20px;
+    font-size: 23px;
+}
+.navbar {
+    padding: 0;
+}
+.nav-link {
+    color: white;
+}
+.nav-link:hover {
+    color: white;
+}
+li.nav-item:hover {
+    border-top: 3px solid white;
+}
+a.nav-link {
+    padding: 20px;
+}
+
+#feature1,
+#feature3{
+    background-color: #1D42B1;
+    padding: 125px 0;
+}
+#feature2 {
+    background-color: #88D65C;
+    padding: 125px 0;
+}
+
+.featured-content, .reservas {
+    padding-right: 150px;
+    padding-top: 170px;
+}
+h2 {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+p {
+    color: white;
+    font-weight: 500;
+}
+.blue{
+	color: #1335B9;
+}
+
+#sales{
+	background: #F5F5F5;
+}
+.sales-content {
+    padding-top: 125px;
+    padding-bottom: 125px;
+    padding-right: 75px;
+}
+.sales-content span.subtitle {
+    display: block;
+    text-transform: uppercase;
+    color: #B3B3B3;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+.sales-content, .comercios, .reservas span.tittle {
+    color: #4A4A4A;
+    font-size: 32px;
+    font-weight: 800;
+}
+.sales-content, .comercios p {
+    color: #4A4A4A;
+    font-weight: 300;
+    font-size: 15px;
+}
+span.tittle {
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+}
+p.bl {
+    color: black;
+    font-weight: 500;
+}
+button.btn-success{
+    background: #88D65C;
+    padding: 10px 100px;
+    color: white;
+    font-size: 17px;
+    border-color: #88D65C;
+}
+
+#faq {
+    padding: 125px 0;
+}
+h3 {
+    color: #1335B9;
+    font-weight: bold;
+    font-size: 40px;
+}
+span.intro {
+    margin-bottom: 50px;
+    display: block;
+    color: #9B9B9B;
+}
+.card {
+    border: 0px;
+}
+.card-header {
+    background: white;
+}
+
+#salesct{
+	background: #F5F5F5;;
+}
+.contact-content {
+    padding-top: 125px;
+    padding-bottom: 125px;
+    padding-right: 75px;
+}
+
+#contact {
+    font-family: Open Sans;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 48px;
+    color: #363636;
+}
+
+input[type=text] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+input[type=email] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+textarea[type=mesage] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+label{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 20px;
+    color: #1335B9;
+}
+
+button.btn-primary{
+        background: #1335B9;
+        padding: 5px 150px;
+        color: white;
+        border-color:  #1335B9;
+        font-family: Open Sans;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 22px;
+    }
+}
+
+#contact{
+    align-self: center;
+}
+
+h6{
+    font-family: OpenSans;
+    font-size: 16px;
+    line-height: 19px;
+    color: #8A8A8A;
+}
+
+footer{
+    padding-left, padding-right: 125px;
+}
